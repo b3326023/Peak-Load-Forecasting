@@ -1,1 +1,1 @@
-https://nbviewer.jupyter.org/github/b3326023/Peak-Load-Forecasting/blob/master/forecasting.ipynb
+[nbviewer](https://nbviewer.jupyter.org/github/b3326023/Peak-Load-Forecasting/blob/master/forecasting.ipynb)
